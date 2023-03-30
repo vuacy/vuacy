@@ -15,7 +15,6 @@
 <div> 
   <a href="https://instagram.com/lugvbs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:20minlucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vuacy/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fjoker-jokerjunior-jr-batman-batmanbeyond-gif-13316599&psig=AOvVaw23eDBZQp0pJkuvQoi9rvgL&ust=1680265445246000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjF89rSg_4CFQAAAAAdAAAAABAD" target="_blank"></a>  
+  <a href = "mailto:20minlucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
