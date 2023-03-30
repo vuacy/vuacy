@@ -7,7 +7,7 @@
   <img align="center" alt="vuacy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vuacy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="vuacy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="vuacy-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/Ftlv4FKoNTAAAAAM/joker-animated.gif">
+  <img align="right" alt="vuacy-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/xmVbe2NKCLIAAAAC/joker-jokerjunior.gif">
 </div>
   
   ##
