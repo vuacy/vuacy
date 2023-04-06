@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <p>:heart:.</p>
+  <p>:heart:</p>
 </div>
 
 
