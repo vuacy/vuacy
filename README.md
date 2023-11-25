@@ -1,4 +1,4 @@
-## Olá, eu sou o Vuacy, técnico em front-end!
+## Olá, eu sou o Vuacy, técnico em Desenvolvimento de Sistemas!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vuacy&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuacy&layout=compact&theme=radical)
